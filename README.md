@@ -8,5 +8,5 @@ Study A-Frame Core
 https://github.com/aframevr/aframe/blob/v0.7.0/docs/components/light.md
 
 JavaScript and how to modify properties, objects and scene elements
-??? Link
+https://stackoverflow.com/questions/38880104/how-to-use-javascript-with-a-frame
 
