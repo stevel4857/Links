@@ -4,3 +4,9 @@ https://jsfiddle.net/donmccurdy/6b5j9p3y/
 https://altspacevr.github.io/aframe/examples/
 https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_A-Frame
 
+Study A-Frame Core
+https://github.com/aframevr/aframe/blob/v0.7.0/docs/components/light.md
+
+JavaScript and how to modify properties, objects and scene elements
+??? Link
+
